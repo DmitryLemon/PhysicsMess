@@ -1,0 +1,30 @@
+﻿  Ball.cpp
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(11,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(12,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(29,39): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(29,39): warning C4244:         with
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(29,39): warning C4244:         [
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(29,39): warning C4244:             T=int
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(29,39): warning C4244:         ]
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(29,31): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(29,31): warning C4244:         with
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(29,31): warning C4244:         [
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(29,31): warning C4244:             T=int
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(29,31): warning C4244:         ]
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(31,41): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(31,41): warning C4244:         with
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(31,41): warning C4244:         [
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(31,41): warning C4244:             T=int
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(31,41): warning C4244:         ]
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(31,33): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(31,33): warning C4244:         with
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(31,33): warning C4244:         [
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(31,33): warning C4244:             T=int
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(31,33): warning C4244:         ]
+D:\VS Projects\PhysicsMess\PhysicsMess\Ball.cpp(52,14): warning C4305: *=: усечение из "double" в "float"
+  Создание кода
+  4 of 91 functions ( 4.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  PhysicsMess.vcxproj -> D:\VS Projects\PhysicsMess\Release\PhysicsMess.exe
